@@ -1,0 +1,3 @@
+This app is just a basic JavaFX application that reads a TXT file, generates an array and displays a large amount of "Would You Rather" questions. 
+There are two buttons, 'A' or 'B', to select which option you would 'rather' do. A new question is then randomly selected from the array and displayed.
+This application will never end due to the fact the array is just randomly selecting statements.
